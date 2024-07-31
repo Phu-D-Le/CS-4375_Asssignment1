@@ -1,0 +1,1 @@
+I could not get my code to produce any result, mean square error always returns NaN (not a number) and I don't know hy
